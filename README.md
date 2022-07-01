@@ -4,7 +4,10 @@ Cet évènement est pour nous l’occasion de faire un rapide détour sur deux f
 # Un intérêt personnel
 Le crash du Boeing 707 concerne tous les guadeloupéens (et nous le verrons les guyanais), mais il présente pour moi un double intérêt : d’une part le lieu du crash se situe à quelques mètres de chez moi à Caféière, à environ 427 mètres d’altitude ; d’autre part, je me sens proche des idées politiques des deux personnages.
 
-![My Image](../Images/Site_crash.jpg.jpg)
+
+
+![Alt text](https://github.com/Mandy21/Images/blob/main/Site_crash.jpg "Title")
+
 Photo prise par mon père le 23 juin 2022
 
 En effet, sur les 103 passagers se trouvaient 2 personnalités politiques de premier plan, le député guyanais Justin Catayée et l’écrivain et homme politique guadeloupéen Albert Béville, tous les deux partisans de l’autonomie des Antilles et de la Guyane françaises. 
