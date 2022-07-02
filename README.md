@@ -48,7 +48,7 @@ Le rapport peut être consulté à: https://www.vie-publique.fr/rapport/36098-co
 
 ### 3 Les désillusions de la loi de départementalisation de 1946
 Au-delà du crash, cet évènement nous donne l’occasion de nous attarder sur les raisons des mouvements autonomistes du début des années 60 (comme le FAGA en 1961 ou l’Organisation de la Jeunesse Anticolonialiste de la Martinique – OJAM en 1962). Ces mouvements prennent entre autres leur origine dans la frustration engendrée par l’écart entre les aspirations qu’a fait naitre la loi de départementalisation de 1946 et les réalités quotidiennes des populations. 
-  En transformant les « quatre vieilles colonies » (Guadeloupe, Martinique, Réunion et Guyane) en département français, cette loi avait pour but de réduire l’écart entre la métropole et les territoires d’outre-mer en assurant (Article 2) que <i> « les lois et décrets actuellement en vigueur dans la France métropolitaine et qui ne sont pas encore appliqués à ces colonies fassent l'objet de décrets d'application à ces nouveaux départements » </i>.
+  En transformant les « quatre vieilles colonies » (Guadeloupe, Martinique, Réunion et Guyane) en département français, cette loi avait pour but de réduire l’écart entre la métropole et les territoires d’outre-mer en assurant (Article 2) que <i> « les lois et décrets actuellement en vigueur dans la France métropolitaine et qui ne sont pas encore appliqués à ces colonies fassent l'objet de décrets d'application à ces nouveaux départements » </i>: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000868445/.
 
 <p align="right">
 <img align="right" src="https://github.com/Mandy21/Images/blob/main/delcampe_basse-terre_08.jpg" width="400" height="450" />
