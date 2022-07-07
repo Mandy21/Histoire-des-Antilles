@@ -3,11 +3,11 @@
 
 <img align="left" src="https://github.com/Mandy21/Images/blob/main/Site_crash.jpg" width="400" height="400" />
 Il y 60 ans, le 22 juin 1962, disparaissait le Boeing 707-328, dit « Chateau de Chantilly », s’écrasant au morne du Dos d’Âne sur les hauteurs de la commune de Deshaies en Guadeloupe. Le vol qui devait relier Paris à Santiago du Chili via Lisbonne (Portugal), Santa Maria (Açores), Pointe-à-Pitre (Guadeloupe), Bogota (Colombie) et Lima (Pérou), était assuré par la compagnie Air France (vol Air France 117). Les 103 passagers et 10 membres d’équipage périrent dans cet accident qui demeure à ce jour le plus grave accident aérien en Guadeloupe, et le 11ème plus grave accident impliquant un Boeing 707 (https://aviation-safety.net/database/record.php?id=19620622-0 consulté le 24 juin 2022).
+
+Cet évènement est pour nous l’occasion de faire un rapide détour sur deux figures marquantes de la vie politique et intellectuelle antillo-guyanaise des années 50 (malheureusement passagères de l’avion), mais également sur la revendication sociale aux Antilles Guyane au lendemain de la Seconde Guerre Mondiale, et les déceptions qui s’en sont suivies. Nous terminerons notre panorama par un regard sur la situation sociale actuelle des territoires d’Outre-mer.
 <br clear="left"/>
 <b> Photo prise par mon père le 23 juin 2022 </b>
 
-Cet évènement est pour nous l’occasion de faire un rapide détour sur deux figures marquantes de la vie politique et intellectuelle antillo-guyanaise des années 50 (malheureusement passagères de l’avion), mais également sur la revendication sociale aux Antilles Guyane au lendemain de la Seconde Guerre Mondiale, et les déceptions qui s’en sont suivies. Nous terminerons notre panorama par un regard sur la situation sociale actuelle des territoires d’Outre-mer.
- 
  
 ### 1 Un intérêt personnel
 Le crash du Boeing 707 concerne tous les guadeloupéens (et nous le verrons les guyanais), mais il présente pour moi un double intérêt : d’une part le lieu du crash se situe à quelques mètres de chez moi à Caféière, à environ 427 mètres d’altitude ; d’autre part, je me sens proche des idées politiques des deux personnages.En effet, sur les 103 passagers se trouvaient 2 personnalités politiques de premier plan, le député guyanais Justin Catayée et l’écrivain et homme politique guadeloupéen Albert Béville, tous les deux partisans de l’autonomie des Antilles et de la Guyane françaises. 
