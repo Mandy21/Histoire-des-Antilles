@@ -1,7 +1,7 @@
 # Histoire d'un crash antillais - Juin 1962: Les répercussions et la situation sociale contemporaine des territoires d'outre-mer
 
 
-<img align="left" src="https://github.com/Mandy21/Images/blob/main/Site_crash.jpg" width="400" height="501" />
+<img align="left" src="https://github.com/Mandy21/Images/blob/main/Site_crash.jpg" width="400" height="502" />
 Il y 60 ans, le 22 juin 1962, disparaissait le Boeing 707-328, dit « Chateau de Chantilly », s’écrasant au morne du Dos d’Âne sur les hauteurs de la commune de Deshaies en Guadeloupe. Le vol qui devait relier Paris à Santiago du Chili via Lisbonne (Portugal), Santa Maria (Açores), Pointe-à-Pitre (Guadeloupe), Bogota (Colombie) et Lima (Pérou), était assuré par la compagnie Air France (vol Air France 117). Les 103 passagers et 10 membres d’équipage périrent dans cet accident qui demeure à ce jour le plus grave accident aérien en Guadeloupe, et le 11ème plus grave accident impliquant un Boeing 707 (https://aviation-safety.net/database/record.php?id=19620622-0 consulté le 24 juin 2022).
 
 Cet évènement est pour nous l’occasion de faire un rapide détour sur deux figures marquantes de la vie politique et intellectuelle antillo-guyanaise des années 50 (malheureusement passagères de l’avion), mais également sur la revendication sociale aux Antilles Guyane au lendemain de la Seconde Guerre Mondiale, et les déceptions qui s’en sont suivies. Nous terminerons notre panorama par un regard sur la situation sociale actuelle des territoires d’Outre-mer.
